@@ -1,0 +1,6 @@
+Disable 'Search Highlights'
+Disable cortana?
+install regfinder and regjump
+disable widges
+disable chat
+disable py launcher
