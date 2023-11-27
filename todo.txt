@@ -3,4 +3,6 @@ Disable cortana?
 install regfinder and regjump
 disable widges
 disable chat
-disable py launcher
+disable python app launcher
+
+set device install disable policy or reg key (policy plus locaiton: System > Device Installation > Device Installation Restrictions)
